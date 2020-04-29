@@ -1,0 +1,7 @@
+creamos una base de datos pequeña en phpMyAdmin SQL
+para probar este ejercicio
+
+
+campos Id tipo int y primay key, Nombres varchar, Correo varchar
+
+insertamos los campos en la base para probar
